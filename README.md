@@ -50,7 +50,7 @@ Java Full Stack Developer with a passion for building scalable, high-performance
 ## 📫 Connect with Me  
 - **LinkedIn**: [Bala Subramanyam](https://www.linkedin.com/in/balasubramanyam-cherukupally-0b49b130a/)
 - **Email**: balasubramanyam.ch90@gmail.com
-- **Email**: rakshithagrr1@gmail.com
+
 
 ---
 
